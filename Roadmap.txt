@@ -1,0 +1,7 @@
+Description des fonctions (preproc)
+Traduire les descriptions du français vers l'anglais
+Job title les plus fréquents sans les splitter
+carte à rapporthcer avec densité de population
+carte à rapprotcher avec l'immigration : est-ce que transfrontalier US ?
+ajouter une section de outlines : les big findings
+préciser les limitations du dataset : canada, janvier 24, data science.
