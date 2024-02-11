@@ -14,7 +14,7 @@ However, 95% of salary values are missing (most linkedin job opportunities usual
 - [x] Map all opportunities on a map
 - [ ] Shed light on new patterns using external data (such as population density)
 - [x] Identify job categories
-- [x] Utilize transformers to detect languages in description column and confirm everything is in English
+- [ ] Utilize transformers to detect languages in description column and confirm everything is in English
 - [ ] Identify the most common skills in description column
 
 
