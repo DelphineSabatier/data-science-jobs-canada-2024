@@ -9,6 +9,15 @@ Overall quality is quite good! (no duplicates, few missing values except for sal
 However, 95% of salary values are missing (most linkedin job opportunities usually do not have this information). -> I decided to remove this column. \
 4% of contract type, sector, work type are missings -> I decided to drop these rows.
 
+## Roadmap
+- [x] Explore the dataset and identify main findings.
+- [x] Map all opportunities on a map
+- [ ] Shed light on new patterns using external data (such as population density)
+- [ ] Identify the most common job title
+- [ ] Utilize transformers from Hugging face to 1/ detect languages in description column and 2/ translate to english.
+- [ ] Identify the most common skills in description column
+
+
 ## Main findings:
 Job opportunities are situated in Ontario and Vancouver area.
 
