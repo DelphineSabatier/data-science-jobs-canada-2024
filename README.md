@@ -13,8 +13,8 @@ However, 95% of salary values are missing (most linkedin job opportunities usual
 - [x] Explore the dataset and identify main findings.
 - [x] Map all opportunities on a map
 - [ ] Shed light on new patterns using external data (such as population density)
-- [ ] Identify the most common job title
-- [ ] Utilize transformers from Hugging face to 1/ detect languages in description column and 2/ translate to english.
+- [x] Identify job categories
+- [x] Utilize transformers to detect languages in description column and confirm everything is in English
 - [ ] Identify the most common skills in description column
 
 
@@ -46,3 +46,10 @@ Mid-senior jobs represents 54.8% of total Canadian market. \
 ### Contract type
 Full-time contract are 88.8%. \
 ![Job Search Queries by Contract Type](https://github.com/DelphineSabatier/data-science-jobs-canada-2024/assets/146428961/8249a725-8f76-4785-8c56-365624ad2be9)
+
+### Job Categories
+5 job categories are defined: Data Science, Machine Learning, NLP, Data Analysis, Engineering. 
+Engineering represents 62.0% of total job opportunities.
+![Job opp by Job Category](https://github.com/DelphineSabatier/data-science-jobs-canada-2024/assets/146428961/dec753df-3188-48d5-b5ea-0fd5b7b53bc5)
+
+
