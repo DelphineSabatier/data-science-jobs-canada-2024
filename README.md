@@ -49,7 +49,7 @@ Full-time contract are 88.8%. \
 
 ### Job Categories
 5 job categories are defined: Data Science, Machine Learning, NLP, Data Analysis, Engineering. 
-Engineering represents 62.0% of total job opportunities.
+Engineering represents 62.0% of total job opportunities. \
 ![Job opp by Job Category](https://github.com/DelphineSabatier/data-science-jobs-canada-2024/assets/146428961/dec753df-3188-48d5-b5ea-0fd5b7b53bc5)
 
 
