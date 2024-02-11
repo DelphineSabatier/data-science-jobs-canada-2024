@@ -1,0 +1,8 @@
+Description des fonctions (preproc)
+Traduire les descriptions du français vers l'anglais
+Job title les plus fréquents sans les splitter
+
+
+
+
+faire un summary des trouvailles
