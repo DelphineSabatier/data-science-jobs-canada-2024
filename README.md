@@ -1,6 +1,6 @@
 # Data Science Jobs in Canada on Jan 2024
-Explore the landscape of Data Science job opportunities in Canada during the early months of 2024. \
-The dataset is an export from LinkedIn in January 2024, based on data from Jan 19th 2024. \
+Explore the landscape of Data Science job opportunities in Canada in January 2024. \
+The dataset is an export from LinkedIn from Jan 19th 2024. \
 Dataset can be found on Kaggle here : [Dataset](https://www.kaggle.com/datasets/kanchana1990/linkedin-canada-data-science-jobs-2024/data)
 
 ## Overview of quality of data set 
