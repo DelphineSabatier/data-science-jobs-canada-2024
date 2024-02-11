@@ -9,7 +9,8 @@ Overall quality is quite good! (no duplicates, few missing values except for sal
 However, 95% of salary values are missing (most linkedin job opportunities usually do not have this information). -> I decided to remove this column. \
 4% of contract type, sector, work type are missings -> I decided to drop these rows.
 
-## Main findings
+## Main findings:
+Job opportunities are situated in Ontario and Vancouver area.
 
 ### Job opportunities were published from May 23 to Jan 24. 
 Most recent is Jan 19th 2024, which is extraction date. \
